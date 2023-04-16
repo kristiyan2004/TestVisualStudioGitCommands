@@ -1,6 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World! This is new. This is added from GitHub");
-Console.WriteLine("Hello, World! This is new. This is added from GitHub");
-Console.WriteLine("Hello, World! This is new. This is added from GitHub");
-Console.WriteLine("Hello, World! This is new. This is added from GitHub");
-Console.WriteLine("Hello, World! This is new. This is added from GitHub");
+﻿static int MyFirstMethod()
+{
+    return 10;
+}
+
+static int MySecondMethod()
+{
+    return 20;
+}
+
+static int MyThirdMethod()
+{
+    return 30;
+}
