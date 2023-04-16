@@ -17,3 +17,8 @@ static int MyFourthMethod()
 {
     return 40;
 }
+
+static int MyFifthMethod()
+{
+    return 50;
+}
