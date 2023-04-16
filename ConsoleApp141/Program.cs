@@ -22,3 +22,8 @@ static int MyFifthMethod()
 {
     return 50;
 }
+
+static int MySixthMethod()
+{
+    return 60;
+}
